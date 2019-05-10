@@ -1,6 +1,6 @@
 # admin_proj
 mac address registration  
-Y.sugihara  
+Y.sugiharay 
 
 ## Environment
 tomcat 8.5 
